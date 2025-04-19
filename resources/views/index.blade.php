@@ -14,7 +14,7 @@
                         data-x="center" data-y="center" data-voffset="['-196', '-196', '-196', '-156']"
                         data-width="['98%', '98%', '98%', '98%']" data-height="['auto']" data-textAlign="['center']"
                         class="tp-caption tp-resizeme rev-sub-title">
-                        <div class="mad-pre-title">psychotherapy and counselling</div>
+                        <div class="mad-pre-title">Psikoterapi ve Danışmalık</div>
                     </div>
 
                     <div
@@ -22,7 +22,7 @@
                         data-x="center" data-y="center" data-voffset="['-90', '-90', '-90', '-70']"
                         data-width="['98%', '98%', '98%', '98%']" data-height="['auto']" data-textAlign="['center']"
                         data-color="['#ffffff']" data-fontsize="['72']" data-lineheight="['88']"
-                        class="tp-caption tp-resizeme tp-layer-section-title"> Take Charge Of Your <br/> Mental Health
+                        class="tp-caption tp-resizeme tp-layer-section-title"> Emekle gelişen çocuklar, <br/> güvenle büyüyen yarınlar!
                     </div>
 
                     <div
@@ -42,8 +42,8 @@
                         data-width="['98%', '98%', '98%', '98%']" data-textAlign="['center']"
                         class="tp-caption tp-resizeme">
                         <div class="btn-set justify-content-center">
-                            <a href="pages_book.html" class="btn btn-huge">Book Online</a>
-                            <a href="pages_services.html" class="btn btn-huge style-3">our services</a>
+                            <a href="tel:05340101010" class="btn btn-huge"> +90 (534) 010 0110 </a>
+                            <a href="pages_services.html" class="btn btn-huge style-3">Terapiler</a>
                         </div>
                     </div>
                 </li>

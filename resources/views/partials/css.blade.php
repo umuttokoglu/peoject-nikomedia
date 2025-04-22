@@ -26,7 +26,7 @@
     .header-phone {
         background-color: #E15622; /* Hafif turuncu ton */
         border: 1px solid #f5d6c6;
-        padding: 8px 14px;
+        padding: 15px 15px;
         border-radius: 10px;
         font-size: 15px;
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);

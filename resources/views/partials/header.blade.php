@@ -13,33 +13,19 @@
                         <ul class="mad-navigation mad-navigation--vertical-sm">
                             <a href="{{ route('home') }}">Anasayfa</a>
                             <li class="menu-item menu-item-has-children">
-                                <a href="#">Terapiler</a>
+                                <a href="#">Terapilerimiz</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item">
-                                        <a href="#">Terapi 1</a>
+                                        <a href="#">Dil ve Konuşma Terapisi</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="#">Terapi 2</a>
+                                        <a href="#">Oyun Terapi</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="#">Terapi 3</a>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Terapi 4</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item">
-                                                <a href="#">Terapi 4 - 1</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="#">Terapi 4 - 2</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="#">Terapi 4 - 3</a>
-                                            </li>
-                                        </ul>
+                                        <a href="#">İşitsel Sözel Terapi</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="#">Terapi 5</a>
+                                        <a href="#">Çocuk Ergen Psikoterapi</a>
                                     </li>
                                 </ul>
                             </li>

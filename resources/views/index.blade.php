@@ -14,7 +14,7 @@
                         data-x="center" data-y="center" data-voffset="['-196', '-196', '-196', '-156']"
                         data-width="['98%', '98%', '98%', '98%']" data-height="['auto']" data-textAlign="['center']"
                         class="tp-caption tp-resizeme rev-sub-title">
-                        <div class="mad-pre-title">Psikoterapi ve Danışmalık</div>
+                        <div class="mad-pre-title">Emek Gelişim ve Danışmalık Merkezi</div>
                     </div>
 
                     <div
@@ -22,7 +22,8 @@
                         data-x="center" data-y="center" data-voffset="['-90', '-90', '-90', '-70']"
                         data-width="['98%', '98%', '98%', '98%']" data-height="['auto']" data-textAlign="['center']"
                         data-color="['#ffffff']" data-fontsize="['72']" data-lineheight="['88']"
-                        class="tp-caption tp-resizeme tp-layer-section-title"> Emekle gelişen çocuklar, <br/> güvenle büyüyen yarınlar!
+                        class="tp-caption tp-resizeme tp-layer-section-title"> Emekle gelişen çocuklar, <br/> güvenle
+                        büyüyen yarınlar!
                     </div>
 
                     <div
@@ -31,9 +32,8 @@
                         data-width="['98%', '98%', '98%', '98%']" data-height="['auto']" data-textAlign="['center']"
                         data-color="['#E8E9EA']" data-fontsize="['18']" data-lineheight="['32']"
                         class="tp-caption tp-resizeme">
-                        <p> Psychotherapy and cognitive behavioural therapy for a range of issues, <br/> from day-to-day
-                            worries
-                            to complex psychological conditions </p>
+                        <p> Her çocuğun bireysel gelişimine odaklanan eğitim anlayışımızla, emekle ilerlerken özgüven
+                            dolu bireyler yetiştiriyoruz. </p>
                     </div>
 
                     <div
@@ -42,8 +42,7 @@
                         data-width="['98%', '98%', '98%', '98%']" data-textAlign="['center']"
                         class="tp-caption tp-resizeme">
                         <div class="btn-set justify-content-center">
-                            <a href="tel:05340101010" class="btn btn-huge"> +90 (534) 010 0110 </a>
-                            <a href="pages_services.html" class="btn btn-huge style-3">Terapiler</a>
+                            <a href="pages_services.html" class="btn btn-huge style-3">Terapilerimiz</a>
                         </div>
                     </div>
                 </li>
@@ -58,28 +57,32 @@
                 <div class="row no-row-gap">
                     <div class="col-xl-6">
                         <div class="mad-img-container">
-                            <div class="mad-img"><img src="{{ asset('assets/images/birebir.png') }}" alt=""/></div>
+                            <div class="mad-img">
+                                <img src="{{ asset('assets/images/one-to-one.png') }}" alt=""/>
+                            </div>
                         </div>
                     </div>
                     <div class="col-xl-6">
                         <div class="mad-img-content">
                             <div class="row justify-content-center">
                                 <div class="col-xxl-8">
-                                    <div class="mad-pre-title">Welcome to</div>
-                                    <h2 class="mad-title"> Private Psychiatry <br/> & Therapy Clinic </h2>
+                                    <div class="mad-pre-title">Hoşgeldiniz</div>
+                                    <h2 class="mad-title"> Emek Gelişim ve <br> Danışmanlık </h2>
                                     <div class="mad-text-medium content-element-6">
-                                        <p> Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor,
-                                            dapibus eget,
-                                            elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam
-                                            erat v olutpat. Duis
-                                            ac turpis. Integer rutrum ante eu lacus. Pellentesque sed dolor. Aliquam
-                                            congue fermentum nisl.
+                                        <p>
+                                            Emekle Gelişen Çocuklar platformunda, her adımda sevgi ve güven dolu bir
+                                            ortam sunuyoruz. Uzman eğitim kadromuz, çocuğunuzun merakını ve
+                                            yaratıcılığını destekleyerek; fiziksel, zihinsel ve duygusal gelişimini
+                                            bütüncül bir yaklaşımla ele alıyor. Ailelerimizle el ele vererek,
+                                            miniklerimize atacakları her adımda güven vermeyi ilke edindik.
                                         </p>
-                                        <p> Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque.
-                                            Quisque diam lorem,
-                                            interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non
-                                            erat lacinia
-                                            fermentum. Donec in velit vel ipsum auctor pulvinar. Nulla venenatis. </p>
+                                        <p>
+                                            Siz de bu yolculuğa katılarak, çocuğunuzun kendi potansiyelini keşfetmesine
+                                            tanıklık edebilirsiniz. Programlarımız ve atölyelerimiz hakkında detaylı
+                                            bilgi almak, canlı turlarımıza katılmak ya da sorularınızı paylaşmak için
+                                            bizimle iletişime geçin. Birlikte, sağlam adımlarla dolu ve umut vaat eden
+                                            yarınlara doğru ilerleyelim!
+                                        </p>
                                     </div>
                                     <a href="pages_team.html" class="btn style-2 btn-big">meet our team</a>
                                 </div>
@@ -93,12 +96,14 @@
                 <div class="mad-title-wrap align-center">
                     <div class="row justify-content-center">
                         <div class="col-lg-6">
-                            <div class="mad-pre-title">WHAT WE OFFER</div>
-                            <h2 class="mad-title">Our Services</h2>
-                            <p> Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget,
-                                elementum
-                                vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat v olutpat. Duis ac
-                                turpis. </p>
+                            <div class="mad-pre-title">Ne Hizmetler Sunuyoruz</div>
+                            <h2 class="mad-title">Terapilerimiz</h2>
+                            <p>
+                                Bireyselleştirilmiş terapi programlarımız, uzman kadromuz eşliğinde oyun terapisi, sanat
+                                terapisi ve dil-konuşma terapisi gibi farklı yöntemlerle çocuğunuzun gelişim alanlarına
+                                odaklanır. Sıcak ve destekleyici ortamda gerçekleşen seanslarımız, özgüvenini
+                                pekiştirerek sosyal-duygusal ve bilişsel becerilerini güçlendirmeye yardımcı olur.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -108,32 +113,31 @@
                         <!--================ Icon Box ================-->
                         <a href="pages_services.html" class="mad-icon-box">
                             <div class="mad-icon-box-content">
-                                <i class="mad-icon-box-icon"><img class="svg"
-                                                                  src="../../public/assets/psychologist_icons_svg/individual.svg"
-                                                                  alt=""/></i>
-                                <h6 class="mad-icon-box-title">Individual Therapy</h6>
-                                <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor
-                                    wisi et. Aliquam
-                                    erat volutpat. Duis ac turpis.</p>
-                                <div class="mad-text-link">Read More</div>
+                                <i class="mad-icon-box-icon">
+                                    <img class="svg" src="{{ asset('assets/psychologist_icons_svg/individual.svg') }}" alt=""/>
+                                </i>
+                                <h6 class="mad-icon-box-title">Dil ve Konuşma Terapisi</h6>
+                                <p>Dil ve Konuşma Terapisi, uzman terapistlerimizin oyun ve etkinlik odaklı
+                                    yaklaşımlarıyla çocuğunuzun dil anlama ve ifade becerilerini geliştirmesine, etkili
+                                    iletişim kurmasına destek olur.</p>
+                                <div class="mad-text-link">Daha fazla oku</div>
                             </div>
                         </a>
                         <!--================ End of Icon Box ================-->
                     </div>
                     <div class="mad-col">
                         <!--================ Icon Box ================-->
-                        <a href="pages_services.html" class="mad-icon-box"
-                           data-bg-image-src="images/bireyselTerapi4.png"> </a>
+                        <a href="pages_services.html" class="mad-icon-box" data-bg-image-src="images/424x424_img1.jpg"> </a>
                         <!--================ End of Icon Box ================-->
                     </div>
                     <div class="mad-col">
                         <!--================ Icon Box ================-->
                         <a href="pages_services.html" class="mad-icon-box">
                             <div class="mad-icon-box-content">
-                                <i class="mad-icon-box-icon"><img class="svg"
-                                                                  src="../../public/assets/psychologist_icons_svg/couple.svg"
-                                                                  alt=""/></i>
-                                <h6 class="mad-icon-box-title">Couple Therapy</h6>
+                                <i class="mad-icon-box-icon">
+                                    <img class="svg" src="{{ asset('assets/psychologist_icons_svg/online.svg') }}" alt=""/>
+                                </i>
+                                <h6 class="mad-icon-box-title">Oyun Terapi</h6>
                                 <p>Aliquam erat volutpat. Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit
                                     amet,
                                     consecvtetuer adipiscing elit.</p>
@@ -144,34 +148,24 @@
                     </div>
                     <div class="mad-col">
                         <!--================ Icon Box ================-->
-                        <a href="pages_services.html" class="mad-icon-box">
-                            <div class="mad-icon-box-content">
-                                <i class="mad-icon-box-icon"><img class="svg"
-                                                                  src="../../public/assets/psychologist_icons_svg/group.svg"
-                                                                  alt=""/></i>
-                                <h6 class="mad-icon-box-title">Group Therapy</h6>
-                                <p>Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus
-                                    eget, elementum
-                                    vel, cursus eleifend, elit.</p>
-                                <div class="mad-text-link">Read More</div>
-                            </div>
-                        </a>
+                        <a href="pages_services.html" class="mad-icon-box"
+                           data-bg-image-src="images/424x424_img3.jpg"> </a>
                         <!--================ End of Icon Box ================-->
                     </div>
                     <div class="mad-col">
                         <!--================ Icon Box ================-->
                         <a href="pages_services.html" class="mad-icon-box"
-                           data-bg-image-src="images/aileTerapi1.png"> </a>
+                           data-bg-image-src="images/424x424_img2.jpg"> </a>
                         <!--================ End of Icon Box ================-->
                     </div>
                     <div class="mad-col">
                         <!--================ Icon Box ================-->
                         <a href="pages_services.html" class="mad-icon-box">
                             <div class="mad-icon-box-content">
-                                <i class="mad-icon-box-icon"><img class="svg"
-                                                                  src="../../public/assets/psychologist_icons_svg/family.svg"
-                                                                  alt=""/></i>
-                                <h6 class="mad-icon-box-title">Family Therapy</h6>
+                                <i class="mad-icon-box-icon">
+                                    <img class="svg" src="{{ asset('assets/psychologist_icons_svg/family.svg') }}" alt=""/>
+                                </i>
+                                <h6 class="mad-icon-box-title">İşitsel Sözel Terapi</h6>
                                 <p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum
                                     ante eu lacus.
                                     Vestibulum libero nisl, porta vel.</p>
@@ -183,17 +177,17 @@
                     <div class="mad-col">
                         <!--================ Icon Box ================-->
                         <a href="pages_services.html" class="mad-icon-box"
-                           data-bg-image-src="images/OnlineTerapi.png"> </a>
+                           data-bg-image-src="images/424x424_img3.jpg"> </a>
                         <!--================ End of Icon Box ================-->
                     </div>
                     <div class="mad-col">
                         <!--================ Icon Box ================-->
                         <a href="pages_services.html" class="mad-icon-box">
                             <div class="mad-icon-box-content">
-                                <i class="mad-icon-box-icon"><img class="svg"
-                                                                  src="../../public/assets/psychologist_icons_svg/online.svg"
-                                                                  alt=""/></i>
-                                <h6 class="mad-icon-box-title">Online Therapy</h6>
+                                <i class="mad-icon-box-icon">
+                                    <img class="svg" src="{{ asset('assets/psychologist_icons_svg/individual.svg') }}" alt=""/>
+                                </i>
+                                <h6 class="mad-icon-box-title">Çocuk Ergen Psikoterapi</h6>
                                 <p> Donec sit amet eros. Lorem ipsum dolor sit amet, consecvtetuer adipiscing elit.
                                     Mauris fermentum
                                     dictum magna. Sed laoreet aliquam leo. </p>
@@ -205,6 +199,7 @@
                 </div>
                 <!--================ End of Icon Boxes ================-->
             </div>
+
             <div class="mad-section mad-section--stretched mad-colorizer--scheme-color-6 mad-colorizer--scheme-light">
                 <div class="mad-texture-holder">
                     <span class="mad-texture-img"><img src="../../public/assets/images/texture12.svg" alt=""

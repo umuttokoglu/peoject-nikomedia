@@ -474,7 +474,7 @@ a {
 }
 
 .mad-link:hover {
-    color: var(--color-primary-lighter);
+    color: var(--color-primary);
 }
 
 /* ----------------------------------------
@@ -975,7 +975,7 @@ html.mad-theme-white:not(.style-2) .header-4 .logo>img:not(:nth-child(2)) {
 }
 
 .mad-navigation .sub-menu a:not(.btn) {
-    color: var(--color-neutral);
+    font-size: 1rem;
 }
 
 .mad-navigation .sub-menu>li>a {
@@ -1024,7 +1024,7 @@ html.mad-theme-white:not(.style-2) .header-4 .logo>img:not(:nth-child(2)) {
 }
 
 .mad-no-touchevents .mad-navigation .sub-menu li:hover>a, .mad-no-touchevents .mad-navigation .sub-menu .menu-item-has-children.mad-selected>a, .mad-touchevents .mad-navigation .sub-menu .menu-item-has-children.mad-tapped>a, .mad-navigation .sub-menu .current-menu-item>a, .mad-navigation .sub-menu .current-menu-ancestor>a, .mad-navigation .sub-menu .current-menu-parent>a {
-    color: var(--color-primary-lighter);
+    color: var(--color-primary);
 }
 
 .mad-no-touchevents .menu-item-has-children:hover>.sub-menu, .mad-no-touchevents .menu-item-has-children.mad-selected>.sub-menu, .mad-touchevents .menu-item-has-children.mad-tapped>.sub-menu {

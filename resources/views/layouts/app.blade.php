@@ -6,6 +6,8 @@
 
     @include('partials.meta')
 
+    <link rel="shortcut icon" href="{{ asset('favicon.ico') }}"/>
+
     @include('partials.css')
 </head>
 

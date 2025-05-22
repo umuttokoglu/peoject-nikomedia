@@ -84,7 +84,7 @@
                                             yarınlara doğru ilerleyelim!
                                         </p>
                                     </div>
-                                    <a href="pages_team.html" class="btn style-2 btn-big">meet our team</a>
+                                    <a href="pages_team.html" class="btn style-2 btn-big">Danışmanlarımız</a>
                                 </div>
                             </div>
                         </div>
@@ -202,13 +202,13 @@
 
             <div class="mad-section mad-section--stretched mad-colorizer--scheme-color-6 mad-colorizer--scheme-light">
                 <div class="mad-texture-holder">
-                    <span class="mad-texture-img"><img src="../../public/assets/images/texture12.svg" alt=""
+                    <span class="mad-texture-img"><img src="{{ asset('assets/images/texture12.svg') }}" alt=""
                                                        class="svg"/></span>
                 </div>
                 <div class="container">
                     <div class="mad-title-wrap align-center">
-                        <div class="mad-pre-title">Testimonials</div>
-                        <h2 class="mad-title">What Clients Say</h2>
+                        <div class="mad-pre-title">Danışanın Gözünden</div>
+                        <h2 class="mad-title">Danışanlarımız neler söyledi</h2>
                     </div>
                     <!--================ Testimonials ================-->
                     <div class="mad-testimonials align-center style-2">
@@ -218,52 +218,13 @@
                                 <div class="mad-testimonial">
                                     <div class="mad-testimonial-info">
                                         <blockquote>
-                                            <p> "Excellent practice with highly trained clinicians who truly care about
-                                                their clients'
-                                                well-being. Highly recommend to anyone seeking psychotherapy!" </p>
+                                            <p> "Çok iyi, innanılmaz iyi. Daha iyisi olur mu?
+                                                Emek Gelişim ve Danışmalık Merkezi yaparsa olur!" </p>
                                         </blockquote>
                                     </div>
                                     <div class="mad-author">
                                         <div class="mad-author-info">
                                             <span class="mad-author-name">Rebecca Johnson, CA, USA</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- / owl item -->
-                            <!-- owl item -->
-                            <div class="mad-grid-item">
-                                <div class="mad-testimonial">
-                                    <div class="mad-testimonial-info">
-                                        <blockquote>
-                                            <p> "A great job of steering discussions in a way that allows the patient to
-                                                make connections
-                                                and self-reflective discoveries that they otherwise would'nt have
-                                                made." </p>
-                                        </blockquote>
-                                    </div>
-                                    <div class="mad-author">
-                                        <div class="mad-author-info">
-                                            <span class="mad-author-name">Sara Smith, CA, USA</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- / owl item -->
-                            <!-- owl item -->
-                            <div class="mad-grid-item">
-                                <div class="mad-testimonial">
-                                    <div class="mad-testimonial-info">
-                                        <blockquote>
-                                            <p> “I felt listened to and understood by my psychologist and felt that her
-                                                compassionate stance
-                                                allowed me to develop greater self compassion and make changes over
-                                                time” </p>
-                                        </blockquote>
-                                    </div>
-                                    <div class="mad-author">
-                                        <div class="mad-author-info">
-                                            <span class="mad-author-name">Alessander Ambrosio, CA, USA</span>
                                         </div>
                                     </div>
                                 </div>
@@ -277,8 +238,8 @@
             <div class="mad-section mad-section--stretched mad-colorizer--scheme-color-7 with-texture11">
                 <div class="container">
                     <div class="mad-title-wrap align-center">
-                        <div class="mad-pre-title">Meet our Therapist</div>
-                        <h2 class="mad-title">Our Team</h2>
+                        <div class="mad-pre-title">Danışmanlarımızla Tanışın</div>
+                        <h2 class="mad-title">Danışmanlarımız</h2>
                     </div>
                     <!--================ Team Members ================-->
                     <div class="mad-team owl-carousel mad-grid mad-grid--cols-3">
@@ -286,7 +247,7 @@
                             <!--================ Team Member ================-->
                             <figure class="mad-team-member">
                                 <a href="pages_team.html" class="mad-team-member-photo"><img
-                                        src="../../public/assets/images/bireyselTerapi4.png"
+                                        src="{{ asset('assets/images/424x456_photo1.jpg') }}"
                                         alt=""/></a>
                                 <figcaption class="mad-team-member-info">
                                     <div class="mad-info-header">
@@ -303,7 +264,7 @@
                             <!--================ Team Member ================-->
                             <figure class="mad-team-member">
                                 <a href="pages_team.html" class="mad-team-member-photo"><img
-                                        src="../../public/assets/images/birebir.png"
+                                        src="{{ asset('assets/images/424x456_photo1.jpg') }}"
                                         alt=""/></a>
                                 <figcaption class="mad-team-member-info">
                                     <div class="mad-info-header">
@@ -320,7 +281,7 @@
                             <!--================ Team Member ================-->
                             <figure class="mad-team-member">
                                 <a href="pages_team.html" class="mad-team-member-photo"><img
-                                        src="../../public/assets/images/bireyselTerapi4.png"
+                                        src="{{ asset('assets/images/424x456_photo1.jpg') }}"
                                         alt=""/></a>
                                 <figcaption class="mad-team-member-info">
                                     <div class="mad-info-header">
@@ -337,7 +298,7 @@
                             <!--================ Team Member ================-->
                             <figure class="mad-team-member">
                                 <a href="pages_team.html" class="mad-team-member-photo"><img
-                                        src="../../public/assets/images/birebir.png"
+                                        src="{{ asset('assets/images/424x456_photo1.jpg') }}"
                                         alt=""/></a>
                                 <figcaption class="mad-team-member-info">
                                     <div class="mad-info-header">
@@ -345,91 +306,6 @@
                                             <a href="pages_team.html">Alan Smith</a>
                                         </h5>
                                         <div class="mad-member-stat">Clinical Director | Psychologist</div>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <!--================ End Of Team Member ================-->
-                        </div>
-                        <div class="mad-col">
-                            <!--================ Team Member ================-->
-                            <figure class="mad-team-member">
-                                <a href="pages_team.html" class="mad-team-member-photo"><img
-                                        src="../../public/assets/images/bireyselTerapi4.png"
-                                        alt=""/></a>
-                                <figcaption class="mad-team-member-info">
-                                    <div class="mad-info-header">
-                                        <h5 class="mad-team-member-name">
-                                            <a href="pages_team.html">Nikki Anderson</a>
-                                        </h5>
-                                        <div class="mad-member-stat">Clinical Director | Psychologist</div>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <!--================ End Of Team Member ================-->
-                        </div>
-                        <div class="mad-col">
-                            <!--================ Team Member ================-->
-                            <figure class="mad-team-member">
-                                <a href="pages_team.html" class="mad-team-member-photo"><img
-                                        src="../../public/assets/images/bireyselTerapi4.png"
-                                        alt=""/></a>
-                                <figcaption class="mad-team-member-info">
-                                    <div class="mad-info-header">
-                                        <h5 class="mad-team-member-name">
-                                            <a href="pages_team.html">Bradley Grosh</a>
-                                        </h5>
-                                        <div class="mad-member-stat">Psychologist</div>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <!--================ End Of Team Member ================-->
-                        </div>
-                        <div class="mad-col">
-                            <!--================ Team Member ================-->
-                            <figure class="mad-team-member">
-                                <a href="pages_team.html" class="mad-team-member-photo"><img
-                                        src="../../public/assets/images/birebir.png"
-                                        alt=""/></a>
-                                <figcaption class="mad-team-member-info">
-                                    <div class="mad-info-header">
-                                        <h5 class="mad-team-member-name">
-                                            <a href="pages_team.html">Alan Smith</a>
-                                        </h5>
-                                        <div class="mad-member-stat">Clinical Director | Psychologist</div>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <!--================ End Of Team Member ================-->
-                        </div>
-                        <div class="mad-col">
-                            <!--================ Team Member ================-->
-                            <figure class="mad-team-member">
-                                <a href="pages_team.html" class="mad-team-member-photo"><img
-                                        src="../../public/assets/images/bireyselTerapi4.png"
-                                        alt=""/></a>
-                                <figcaption class="mad-team-member-info">
-                                    <div class="mad-info-header">
-                                        <h5 class="mad-team-member-name">
-                                            <a href="pages_team.html">Nikki Anderson</a>
-                                        </h5>
-                                        <div class="mad-member-stat">Clinical Director | Psychologist</div>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <!--================ End Of Team Member ================-->
-                        </div>
-                        <div class="mad-col">
-                            <!--================ Team Member ================-->
-                            <figure class="mad-team-member">
-                                <a href="pages_team.html" class="mad-team-member-photo"><img
-                                        src="../../public/assets/images/birebir.png"
-                                        alt=""/></a>
-                                <figcaption class="mad-team-member-info">
-                                    <div class="mad-info-header">
-                                        <h5 class="mad-team-member-name">
-                                            <a href="pages_team.html">Bradley Grosh</a>
-                                        </h5>
-                                        <div class="mad-member-stat">Psychologist</div>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -598,7 +474,7 @@
                         <!--================ Icon Box ================-->
                         <article class="mad-icon-box">
                             <i class="mad-icon-box-icon"><img class="svg"
-                                                              src="../../public/assets/psychologist_icons_svg/loc2.svg"
+                                                              src="{{ asset('assets/psychologist_icons_svg/loc2.svg') }}"
                                                               alt=""/></i>
                             <div class="mad-icon-box-content">
                                 <p> 135 Shoreditch High St, <br/> London E1 6JE, UK </p>
@@ -610,7 +486,7 @@
                         <!--================ Icon Box ================-->
                         <article class="mad-icon-box">
                             <i class="mad-icon-box-icon"><img class="svg"
-                                                              src="../../public/assets/psychologist_icons_svg/phone2.svg"
+                                                              src="{{ asset('assets/psychologist_icons_svg/phone2.svg') }}"
                                                               alt=""/></i>
                             <div class="mad-icon-box-content">
                                 <p> +1 800 603 6035 <br/>
@@ -624,7 +500,7 @@
                         <!--================ Icon Box ================-->
                         <article class="mad-icon-box">
                             <i class="mad-icon-box-icon"><img class="svg"
-                                                              src="../../public/assets/psychologist_icons_svg/clock2.svg"
+                                                              src="{{ asset('assets/psychologist_icons_svg/clock2.svg') }}"
                                                               alt=""/></i>
                             <div class="mad-icon-box-content">
                                 <p> Monday - Saturday: 8AM -10PM <br/> Sunday: 10AM - 8PM </p>
@@ -636,7 +512,7 @@
                         <!--================ Icon Box ================-->
                         <article class="mad-icon-box">
                             <i class="mad-icon-box-icon"><img class="svg"
-                                                              src="../../public/assets/psychologist_icons_svg/network2.svg"
+                                                              src="{{ asset('assets/psychologist_icons_svg/network2.svg') }}"
                                                               alt=""/></i>
                             <div class="mad-icon-box-content">
                                 <p>
